@@ -1,1 +1,1 @@
-# estudo_dirigido1
+# Repositório para realização de atividades da disciplina de programação.
